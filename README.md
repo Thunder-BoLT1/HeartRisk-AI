@@ -183,7 +183,7 @@ The following models were trained, tuned, and compared:
 
 ---
 
-## ▶️ How to Run
+## ▶️ How to Run?
 
 1. Clone the repo:
 
